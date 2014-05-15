@@ -1,4 +1,4 @@
 DeathrunMapPackGMod
 ===================
 
-DeathrunMapPackGMod
+Deathrun Map Pack GMod
